@@ -1,0 +1,16 @@
+C:\Users\gazhp\source\repos\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\gazhp\source\repos\TaskManager\bin\Debug\TaskManager.exe
+C:\Users\gazhp\source\repos\TaskManager\bin\Debug\TaskManager.pdb
+C:\Users\gazhp\source\repos\TaskManager\obj\Debug\TaskManager.csproj.AssemblyReference.cache
+C:\Users\gazhp\source\repos\TaskManager\obj\Debug\TaskManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\gazhp\source\repos\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+C:\Users\gazhp\source\repos\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+C:\Users\gazhp\source\repos\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\gazhp\source\repos\TaskManager\obj\Debug\TaskManager.exe
+C:\Users\gazhp\source\repos\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\gazhp\source\repos\TaskManager\obj\Debug\TaskManager.panelRendimiento.resources
+C:\Users\gazhp\source\repos\TaskManager\obj\Debug\TaskManager.TaskManager.resources
+C:\Users\gazhp\source\repos\TaskManager\bin\Debug\MetroFramework.Design.dll
+C:\Users\gazhp\source\repos\TaskManager\bin\Debug\MetroFramework.dll
+C:\Users\gazhp\source\repos\TaskManager\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\gazhp\source\repos\TaskManager\obj\Debug\TaskManager.csproj.CopyComplete
